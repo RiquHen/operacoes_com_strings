@@ -1,3 +1,4 @@
+# Python 3.11.2
 # operacoes_com_strings
  
  manipulando strings; 
